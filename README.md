@@ -8,7 +8,7 @@ In this module, I helped Jill in analysing  credit card credit dataset from Lend
 
 - Random Oversampling:
 
-<img width="246" alt="Pic 1" src="https://user-images.githubusercontent.com/95254809/168658570-d3ad502d-b237-4a63-af32-6486d33ddd90.PNG">
+<img width="493" alt="Pic1" src="https://user-images.githubusercontent.com/95254809/168658776-60b251a8-4866-4a4c-9e31-2d7785854267.PNG">
 
 
 The balanced accuracy score for this model is 0.6573.The model is not very precise when it comes to predicting high risk lows. Recall for high risk is 0.71 which is also not very good. 
