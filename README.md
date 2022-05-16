@@ -45,7 +45,7 @@ The balanced accuracy score for this model is 0.93166 which is the highest among
 
 ## Summary
 
-From the results, we can see that the highest balanced accuracy score is for Easy Ensemble AdaBoost Classifier. 
+From the results, we can see that the highest balanced accuracy score (0.93166) is for Easy Ensemble AdaBoost Classifier. The precision and f1 scores for predicting high risk loans is still very low. Low precisions means that there are many fasle positives. This means that manmy people who were actually low risks were predicted hish risks and therfore might have been rejected. I would conclude by saying that a model other than these 6 models should be used. 
 
 
 
