@@ -11,7 +11,7 @@ In this module, I helped Jill in analysing  credit card credit dataset from Lend
 <img width="493" alt="Pic1" src="https://user-images.githubusercontent.com/95254809/168658776-60b251a8-4866-4a4c-9e31-2d7785854267.PNG">
 
 
-The balanced accuracy score for this model is 0.6573.The model is not very precise when it comes to predicting high risk lows. Recall for high risk is 0.71 which is also not very good. 
+The balanced accuracy score for this model is 0.6573. The model is not very precise when it comes to predicting high risk lows. Recall for high risk is 0.71 which is also not very good. 
 
 - SMOTE Oversampling:
 
@@ -35,7 +35,7 @@ The balanced accuracy score for this model is 0.64471. Precision and recall valu
 
 <img width="507" alt="Pic5" src="https://user-images.githubusercontent.com/95254809/168648426-3cfc6eaa-c1b6-4d88-989a-d0cfef187753.PNG">
 
-The balanced accuracy score for this model is 0.7885 which is considerably higher than the previous models we have seen. Precision is just a tiny but higher than the previous models but it is still very low with a value of 0.03. Recall value is similar to the previous models. 
+The balanced accuracy score for this model is 0.7885 which is considerably higher than the previous models we have seen. Precision is just a tiny bit higher than the previous models but it is still very low with a value of 0.03. Recall value is similar to the previous models. 
 
 - Easy Ensemble AdaBoost Classifier:
 
@@ -45,7 +45,7 @@ The balanced accuracy score for this model is 0.93166 which is the highest among
 
 ## Summary
 
-From the results, we can see that the highest balanced accuracy score (0.93166) is for Easy Ensemble AdaBoost Classifier. The precision and f1 scores for predicting high risk loans is still very low. Low precisions means that there are many fasle positives. This means that manmy people who were actually low risks were predicted hish risks and therfore might have been rejected. I would conclude by saying that a model other than these 6 models should be used. 
+From the results, we can see that the highest balanced accuracy score (0.93166) is for Easy Ensemble AdaBoost Classifier. The precision and f1 scores for predicting high risk loans is still very low. Low precisions means that there are many fasle positives. This means that many people who were actually low risks were predicted hish risks and therfore might have been rejected. I would conclude by saying that a model other than these 6 models should be used. 
 
 
 
