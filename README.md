@@ -9,7 +9,7 @@ In this module, I helped Jill in analysing  credit card credit dataset from Lend
 - Random Oversampling:
 
 ![Random_Oversampling.PNG.PNG](Resources/Random_Oversampling.PNG)
-
+https://github.com/brizvi4/Credit_Risk_Analysis/blob/main/Resources/SMOTEEN.PNG
 
 The balanced accuracy score for this model is 0.6573. The model is not very precise when it comes to predicting high risk lows. Recall for high risk is 0.71 which is also not very good. 
 
